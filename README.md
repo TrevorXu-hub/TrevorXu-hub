@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Tre 👋
 
-<!--
-**TrevorXu-hub/TrevorXu-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data science student at UVA (B.S. 2027), currently a data science intern at
+First Solar — sensor pattern classification and the Kubernetes monitoring
+stack behind it.
 
-Here are some ideas to get you started:
+Most of my production work lives behind a firewall, so what's public here is
+coursework and side projects: pipelines, applied ML, and whatever I'm curious
+about at the time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** Python · SQL · Prefect · scikit-learn · Kubernetes ·
+Grafana/Prometheus · AWS
+
+📫 pxg6af@virginia.edu · [LinkedIn](https://www.linkedin.com/in/trevor-xu-751a1b288/)
